@@ -1,4 +1,5 @@
-package outsidefood;
+package WaiMai;
 
-public class Delivery {
+public interface Delivery {
+    void deliver(Order order);
 }
