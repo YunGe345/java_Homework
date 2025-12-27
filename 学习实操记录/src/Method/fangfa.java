@@ -1,3 +1,5 @@
+package Method;
+
 public class fangfa {
     public static void main(String[] args) {
 
